@@ -1,0 +1,43 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 24 Jan 2018 23:10:49 at http://www.aurganon.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.aurganon.com/ -O1 "d:\My Web Sites\bodhi" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:14:08	Error: 	"Forbidden" (403) at link https://scontent.fmaa1-2.fna.fbcdn.net/v/t1.0-9/21751355_1922643114662759_7579393136404103101_n.jpg?oh=1f3c0eb5de62e028790cc76a6236b536&oe=5A44153E (from www.aurganon.com/)
+23:14:08	Error: 	"Forbidden" (403) at link https://scontent.fmaa1-2.fna.fbcdn.net/v/t1.0-9/21731290_1922062448054159_8985130282348085181_n.jpg?oh=44afbdaf65d6543f0cc3d506b0d1574c&oe=5A407ECA (from www.aurganon.com/)
+23:14:08	Error: 	"Forbidden" (403) at link https://scontent.fmaa1-2.fna.fbcdn.net/v/t1.0-9/21740687_1922294254697645_2209040600706158448_n.jpg?oh=cbbaa2ec265bfcdc0e3a7043829d2a97&oe=5A5124B7 (from www.aurganon.com/)
+23:14:08	Error: 	"Forbidden" (403) at link https://scontent.fmaa1-2.fna.fbcdn.net/v/t1.0-0/q81/s480x480/21463095_1922567608003643_1712275388504331400_n.jpg?oh=ef87da05100216e46f59d6f0b409f771&oe=5A5B894A (from www.aurganon.com/)
+23:14:08	Error: 	"Forbidden" (403) at link https://scontent.fmaa1-2.fna.fbcdn.net/v/t1.0-9/21743017_1927019017623417_7787624773337501007_n.jpg?oh=3079da6e31b20a414218e52f1e928378&oe=5A4B9070 (from www.aurganon.com/)
+23:14:08	Error: 	"Forbidden" (403) at link https://scontent.fmaa1-2.fna.fbcdn.net/v/t1.0-9/21743382_1921576538102750_8853606438349677822_n.jpg?oh=1d4fd5b3a7d3ed52176eced6171a7f8e&oe=5A14D0A6 (from www.aurganon.com/)
+23:14:08	Error: 	"Forbidden" (403) at link https://scontent.fmaa1-2.fna.fbcdn.net/v/t1.0-9/21751464_1921457921447945_1095870376194779796_n.jpg?oh=9de4f87b337d0ecfb4ebd612c80e17f6&oe=5A50314A (from www.aurganon.com/)
+23:14:08	Error: 	"Not Found" (404) at link www.aurganon.com/fonts/glyphicons-halflings-regular.eot (from www.aurganon.com/css/bootstrap.min.css)
+23:14:08	Error: 	"Not Found" (404) at link www.aurganon.com/fonts/glyphicons-halflings-regular.eot? (from www.aurganon.com/css/bootstrap.min.css)
+23:14:08	Error: 	"Not Found" (404) at link www.aurganon.com/fonts/glyphicons-halflings-regular.woff2 (from www.aurganon.com/css/bootstrap.min.css)
+23:14:08	Error: 	"Not Found" (404) at link www.aurganon.com/fonts/glyphicons-halflings-regular.woff (from www.aurganon.com/css/bootstrap.min.css)
+23:14:08	Error: 	"Not Found" (404) at link www.aurganon.com/fonts/glyphicons-halflings-regular.ttf (from www.aurganon.com/css/bootstrap.min.css)
+23:14:08	Error: 	"Not Found" (404) at link www.aurganon.com/fonts/glyphicons-halflings-regular.svg (from www.aurganon.com/css/bootstrap.min.css)
+23:15:17	Error: 	"Not Found" (404) at link www.aurganon.com/images/logo.png (from www.aurganon.com/css/main.css)
+23:15:17	Error: 	"Not Found" (404) at link www.aurganon.com/images/home-bg.jpg (from www.aurganon.com/css/main.css)
+23:15:17	Error: 	"Not Found" (404) at link www.aurganon.com/css/slides/02.jpg (from www.aurganon.com/css/vendor.css)
+23:15:17	Error: 	"Not Found" (404) at link www.aurganon.com/images/wol.jpg (from www.aurganon.com/index.php?spo=2)
+23:16:59	Error: 	"Not Found" (404) at link www.aurganon.com/js/borderMenu.js (from www.aurganon.com/team.php)
+23:16:59	Error: 	"Forbidden" (403) at link https://scontent.fmaa1-2.fna.fbcdn.net/v/t1.0-9/21728008_1920701418190262_8470264463791533894_n.jpg?oh=44a242e4bde3f41489a0b2186d521294&oe=5A45DD1C (from www.aurganon.com/index.php?info=4)
+23:16:59	Warning: 	File not parsed, looks like binary: www.aurganon.com/fonts/roboto/roboto-black-webfont.woff2
+23:16:59	Warning: 	File not parsed, looks like binary: www.aurganon.com/fonts/roboto/roboto-blackitalic-webfont.woff2
+23:16:59	Warning: 	File not parsed, looks like binary: www.aurganon.com/fonts/roboto/roboto-bold-webfont.woff2
+23:16:59	Warning: 	File not parsed, looks like binary: www.aurganon.com/fonts/roboto/roboto-bolditalic-webfont.woff2
+23:16:59	Warning: 	File not parsed, looks like binary: www.aurganon.com/fonts/roboto/roboto-italic-webfont.woff2
+23:16:59	Warning: 	File not parsed, looks like binary: www.aurganon.com/fonts/roboto/roboto-light-webfont.woff2
+23:16:59	Warning: 	File not parsed, looks like binary: www.aurganon.com/fonts/roboto/roboto-lightitalic-webfont.woff2
+23:16:59	Warning: 	File not parsed, looks like binary: www.aurganon.com/fonts/roboto/roboto-medium-webfont.woff2
+23:16:59	Warning: 	File not parsed, looks like binary: www.aurganon.com/fonts/roboto/roboto-mediumitalic-webfont.woff2
+23:17:00	Warning: 	File not parsed, looks like binary: www.aurganon.com/fonts/roboto/roboto-regular-webfont.woff2
+23:17:00	Warning: 	File not parsed, looks like binary: www.aurganon.com/fonts/roboto/roboto-thin-webfont.woff2
+23:17:00	Warning: 	File not parsed, looks like binary: www.aurganon.com/fonts/roboto/roboto-thinitalic-webfont.woff2
+23:24:03	Warning: 	File not parsed, looks like binary: www.aurganon.com/images/slides/.DS_Store
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 28 seconds : 225 links scanned, 205 files written (20885704 bytes overall) [20454040 bytes received at 25314 bytes/sec], 729888 bytes transferred using HTTP compression in 46 files, ratio 31%, 1.9 requests per connection
+(19 errors, 13 warnings, 0 messages)
