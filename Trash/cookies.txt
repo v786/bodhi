@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.aurganon.com	TRUE	/	FALSE	1999999999	PHPSESSID	41e38d74917f27d1a8c6704c804c9222
-
